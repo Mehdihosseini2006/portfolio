@@ -1,0 +1,40 @@
+body {
+  font-family: "Tahoma", sans-serif;
+  direction: rtl;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background-color: #0088cc;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  padding: 1.5rem 2rem;
+  background: white;
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-type: square;
+  padding-right: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+  margin-top: 2rem;
+}
